@@ -67,7 +67,6 @@ int main()
                 }
                 else
                 {
-                    //printf(p[n].repas);
                     p[n].repas=0;
                 }
             }
